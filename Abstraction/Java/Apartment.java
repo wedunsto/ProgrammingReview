@@ -26,6 +26,16 @@ class Apartment extends Home implements Tenants{
 		System.out.println(statement);
 	}
 	@Override 
+	public int CostDeduction(int cost){ //Overridden method to determine cost reductions
+		return cost - (getBedrooms() / getBathrooms());
+	}
+	public boolean Affordable(int cost){ //Determine if the tenants can afford to live in their housing
+		boolean is_affordable = false; //declare and initialize result as false
+		if(cost < budget){ //If the budget is bigger than the cost
+			is_affordable = true; //the housing is affordable
+		}
+		return is_affordable;
+	}
 	public boolean getPatio(){ //Getter for patio field
 		return patio;
 	}
