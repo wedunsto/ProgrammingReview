@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/will/Documents/Programming Review/ProgrammingReview/Abstraction/C++/XGames/Skateboarding.cpp
+iostream
+-
+XGames.cpp
+/home/will/Documents/Programming Review/ProgrammingReview/Abstraction/C++/XGames/XGames.cpp
+
+/home/will/Documents/Programming Review/ProgrammingReview/Abstraction/C++/XGames/XGames.cpp
+iostream
+-
+vector
+-
+
+/home/will/Documents/Programming Review/ProgrammingReview/Abstraction/C++/XGames/main.cpp
+iostream
+-
+Skateboarding.cpp
+/home/will/Documents/Programming Review/ProgrammingReview/Abstraction/C++/XGames/Skateboarding.cpp
+
