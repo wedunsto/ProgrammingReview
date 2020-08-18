@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/will/Documents/Programming Review/ProgrammingReview/Encapsulation/C++/Personal_Information/Person.cpp
+iostream
+-
+Personal_Information.cpp
+/home/will/Documents/Programming Review/ProgrammingReview/Encapsulation/C++/Personal_Information/Personal_Information.cpp
+
+/home/will/Documents/Programming Review/ProgrammingReview/Encapsulation/C++/Personal_Information/Personal_Information.cpp
+iostream
+-
+
+/home/will/Documents/Programming Review/ProgrammingReview/Encapsulation/C++/Personal_Information/main.cpp
+iostream
+-
+Person.cpp
+/home/will/Documents/Programming Review/ProgrammingReview/Encapsulation/C++/Personal_Information/Person.cpp
+

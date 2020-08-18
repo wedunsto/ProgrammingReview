@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Personal_Information.dir/main.cpp.o CMakeFiles/Personal_Information.dir/Personal_Information.cpp.o CMakeFiles/Personal_Information.dir/Person.cpp.o  -o Personal_Information 
