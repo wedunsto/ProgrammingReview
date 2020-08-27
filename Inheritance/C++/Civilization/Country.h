@@ -1,3 +1,5 @@
+#ifndef CIVILIZATION_COUNTRY_H
+#define CIVILIZATION_COUNTRY_H
 #include<iostream>
 using namespace std;
 
@@ -43,3 +45,4 @@ public:
         return this->countryPopulation;
     }
 };
+#endif //CIVILIZATION_STATE_H

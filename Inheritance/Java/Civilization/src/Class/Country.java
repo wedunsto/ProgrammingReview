@@ -1,12 +1,10 @@
 package Class;
-
+/*
+ *Objectives:
+ *  Create super class 'Country'
+ *  Detail a country's: name, currency, and population
+ */
 public class Country {
-    /*
-    Objectives:
-        Create super class 'Country'
-        Detail a country's: name, currency, and population
-     */
-
     private String countryName; //Contain the country's name
     private String countryCurrency; //Contain the country's currency
     private double countryPopulation; //Contain the country's population

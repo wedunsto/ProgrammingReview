@@ -83,6 +83,9 @@
 		<Unit filename="/cygdrive/d/Programming/Review Topics/ProgrammingReview/Inheritance/C++/Civilization/Country.h">
 			<Option target="Civilization"/>
 		</Unit>
+		<Unit filename="/cygdrive/d/Programming/Review Topics/ProgrammingReview/Inheritance/C++/Civilization/State.h">
+			<Option target="Civilization"/>
+		</Unit>
 		<Unit filename="/cygdrive/d/Programming/Review Topics/ProgrammingReview/Inheritance/C++/Civilization/main.cpp">
 			<Option target="Civilization"/>
 		</Unit>
