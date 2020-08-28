@@ -6,7 +6,8 @@ public class Main {
 	public static City SJ = new City("United States","USD",4.6,
 																				"California","Avocado Toast",7.8,
 																				"SanJose",11111,11211,22322);
-	public static City test = new City();
+	public static AutonomousZone awefule = new AutonomousZone("COPPA",500);
+
 	public static void main(String[] args){
 		System.out.println("The country is: "+USA.getCountryName()+" the currency is: "+USA.getCountryCurrency()+" the population is: "+Double.toString(USA.getCountryPopulation())+" billion");
 		System.out.println("In the country: "+WA.getCountryName()+", the state is: "+WA.getStateName()+" the state is famous for: "+WA.getStateFood()+" the population is: "+

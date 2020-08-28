@@ -80,10 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/d/Programming Review/ProgrammingReview/Inheritance/C++/Civilization/AutonomousZone.h">
+			<Option target="Civilization"/>
+		</Unit>
 		<Unit filename="/cygdrive/d/Programming Review/ProgrammingReview/Inheritance/C++/Civilization/City.h">
 			<Option target="Civilization"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/Programming Review/ProgrammingReview/Inheritance/C++/Civilization/Country.h">
+			<Option target="Civilization"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/Programming Review/ProgrammingReview/Inheritance/C++/Civilization/Inhabitable.h">
 			<Option target="Civilization"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/Programming Review/ProgrammingReview/Inheritance/C++/Civilization/State.h">

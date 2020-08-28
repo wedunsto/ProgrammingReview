@@ -7,7 +7,7 @@ import java.util.ArrayList;
  *	Create final derived class 'City'
  *	Detail a city's name, zip code range, and citizens
  */
-public class City extends State{
+public class City extends State implements Inhabitable{
 	private String cityName;//Contains the city's name
 	private int zipCodes[];//Contains the range of zip codes in the city
 	private ArrayList citizens;//Contains the names of people living in the city
@@ -66,5 +66,10 @@ public class City extends State{
 
 	public int getCitizenSize(){
 		return citizens.size();
+	}
+
+	@Override
+	public int crimeCount(int inhabitants) {
+		return this.getCitizenSize()/2;
 	}
 }

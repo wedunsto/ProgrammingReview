@@ -3,13 +3,14 @@
 #include<iostream>
 #include<vector>
 #include "State.h"
+#include "Inhabitable.h"
 using namespace std;
 /*
  * Objectives:
  *  Create derived class from 'State'
  *  Detail a city's name, zip code range, and citizens
  */
-class City:public State{
+class City:public State,public Inhabitable{
 private:
   string cityName;//Contains the city's name
   int ZIPCODE_SIZE = 3;
@@ -62,6 +63,10 @@ public:
 
   int getCitizensSize(){
       return citizens.size();
+  }
+
+  int crimeCount(int inhabitants) override {
+      return this->getCitizensSize()/2;
   }
 };
 #endif //CIVILIZATION_CITY_H
