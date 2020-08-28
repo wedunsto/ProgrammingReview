@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/d/Programming/Review Topics/ProgrammingReview/Inheritance/C++/Civilization/main.cpp" "/cygdrive/d/Programming/Review Topics/ProgrammingReview/Inheritance/C++/Civilization/cmake-build-debug/CMakeFiles/Civilization.dir/main.cpp.o"
+  "/cygdrive/d/Programming Review/ProgrammingReview/Inheritance/C++/Civilization/main.cpp" "/cygdrive/d/Programming Review/ProgrammingReview/Inheritance/C++/Civilization/cmake-build-debug/CMakeFiles/Civilization.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

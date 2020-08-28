@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/d/Programming/Review Topics/ProgrammingReview/Inheritance/C++/Civilization
+# Install script for directory: /cygdrive/d/Programming Review/ProgrammingReview/Inheritance/C++/Civilization
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/d/Programming/Review Topics/ProgrammingReview/Inheritance/C++/Civilization/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/cygdrive/d/Programming Review/ProgrammingReview/Inheritance/C++/Civilization/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
