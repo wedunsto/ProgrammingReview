@@ -1,0 +1,1 @@
+D:/C++/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/WorkForce.dir/main.cpp.o  -o WorkForce.exe -Wl,--out-implib,libWorkForce.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
