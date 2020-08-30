@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Selection_Sort.h
+iostream
+-
+
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/main.cpp
+iostream
+-
+Selection_Sort.h
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Selection_Sort.h
+
