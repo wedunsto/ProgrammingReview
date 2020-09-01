@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Insertion_Sort.h">
+			<Option target="C__"/>
+		</Unit>
 		<Unit filename="/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Selection_Sort.h">
 			<Option target="C__"/>
 		</Unit>
