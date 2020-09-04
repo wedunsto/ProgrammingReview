@@ -9,8 +9,8 @@ public class Insertion_Sort {
 	private int[] arr_Unsorted;//Holds the array of elements that are unsorted
 
 	public Insertion_Sort(){//Default constructor
-		arr_Sorted=new int[0];
-		arr_Unsorted=new int[0];
+		arr_Sorted=null;
+		arr_Unsorted=null;
 	}
 
 	public Insertion_Sort(int size){//Overloaded constructor

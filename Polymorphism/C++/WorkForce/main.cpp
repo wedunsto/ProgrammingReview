@@ -1,8 +1,10 @@
 #include <iostream>
+#include <unistd.h>
 #include "OfficeJob.h"
 using namespace std;
 
 int main() {
+	fork();
 	Waiter oliveGarden;
 	Waiter redLobster;
 	OfficeJob lenovo;
