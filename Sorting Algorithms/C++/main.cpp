@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Selection_Sort.h"
 #include "Insertion_Sort.h"
+#include "Bubble_Sort.h"
 using namespace std;
 
 int main() {
@@ -8,6 +9,7 @@ int main() {
   int arr[n]={9,10,5,8,54,25};
   int arr0[n]={1,2,3,4,5,0};
   int arr1[n]={9,10,5,8,54,25};
+	int arr2[n]={9,10,5,8,54,25};
 
   cout<<"The unsorted array is:"<<endl;
   printArray(arr,n);
@@ -26,4 +28,10 @@ int main() {
   insertionSortUnsorted(arr1,n);
   cout<<"The sorted array is:"<<endl;
   printArray(arr1,n);
+
+	cout<<"The unsorted array is:"<<endl;
+	printArray(arr2,n);
+	bubbleSort(arr2,n);
+	cout<<"The sorted array is:"<<endl;
+	printArray(arr2,n);
 }
