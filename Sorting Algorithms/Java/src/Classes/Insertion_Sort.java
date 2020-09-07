@@ -27,6 +27,7 @@ public class Insertion_Sort {
 		for(int i=0;i<arr.length;i++){
 			System.out.print(arr[i]+" ");
 		}
+		System.out.println();
 	}
 
 	public int[] insertionSort(int newValue){//First insertion sort algorithm
