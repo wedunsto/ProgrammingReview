@@ -6,25 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/d/Programming Review/ProgrammingReview/Sorting Algorithms/C++/Bubble_Sort.h
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Bubble_Sort.h
 iostream
 -
 
-/cygdrive/d/Programming Review/ProgrammingReview/Sorting Algorithms/C++/Insertion_Sort.h
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Insertion_Sort.h
 iostream
 -
 
-/cygdrive/d/Programming Review/ProgrammingReview/Sorting Algorithms/C++/Selection_Sort.h
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Merge_Sort.h
 iostream
 -
 
-/cygdrive/d/Programming Review/ProgrammingReview/Sorting Algorithms/C++/main.cpp
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Selection_Sort.h
+iostream
+-
+
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/main.cpp
 iostream
 -
 Selection_Sort.h
-/cygdrive/d/Programming Review/ProgrammingReview/Sorting Algorithms/C++/Selection_Sort.h
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Selection_Sort.h
 Insertion_Sort.h
-/cygdrive/d/Programming Review/ProgrammingReview/Sorting Algorithms/C++/Insertion_Sort.h
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Insertion_Sort.h
 Bubble_Sort.h
-/cygdrive/d/Programming Review/ProgrammingReview/Sorting Algorithms/C++/Bubble_Sort.h
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Bubble_Sort.h
+Merge_Sort.h
+/cygdrive/d/Programming/Review Topics/ProgrammingReview/Sorting Algorithms/C++/Merge_Sort.h
 
