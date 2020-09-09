@@ -17,5 +17,17 @@ using namespace std;
 	 queue.enqueue(54);
 	 queue.enqueue(25);
 	 
+	 int size=queue.sizeOfQueue();
+	 cout<<"queue size is: "<<size<<endl;
+	 queue.printQueue();
+	 
+	 queue.enqueue(11);//Enter value into full queue
+	 size=queue.sizeOfQueue();
+	 cout<<"queue size is: "<<size<<endl;
+	 queue.printQueue();
+	 
+	 queue.dequeue();
+	 size=queue.sizeOfQueue();
+	 cout<<"queue size is: "<<size<<endl;
 	 queue.printQueue();
  }
